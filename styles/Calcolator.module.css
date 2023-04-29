@@ -1,0 +1,211 @@
+
+.words{
+    position: absolute;
+    top: 30%;
+    left: 3%;
+}
+
+.words p{
+    font-size: 95px;
+    font-weight: 600;
+    
+    color: whitesmoke;
+    font-family: serif;
+    padding: 0px 7px 0px 10px;
+    border-bottom: 4px solid white;
+}
+
+.words span{
+    position: relative;
+    top: 10px;
+    font-size: 45px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    margin-left: 9px;
+    color: whitesmoke;
+    font-family: serif;
+}
+
+
+.screen{
+    position: absolute;
+    font-size: 40px;
+    width: 99%;
+    height: 123px;
+    left: 1.8%;
+    top: -212px;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    font-size: 40pxs;
+    box-shadow: 0px 2px 10px -1px rgba(0, 0, 0, 0.19);
+    background-color: beige;
+}
+
+
+
+.borderdiv{
+    
+    width: 600px;
+    height: 470px;
+    position: relative;
+    left: 58%;
+    top: 260px;
+    display: block;
+}
+
+.numbers{
+    position: relative;
+    display: inline-block;
+    width: 142px;
+    height: 101px;
+    display: block;
+    border: none;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: beige;
+    border: 2px solid rgba(225, 41, 157, 0.297);
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color:rgb(86, 84, 84);
+    transition: 0.4s;
+    box-shadow: 0px 2px 10px -1px rgba(0, 0, 0, 0.19);
+}
+.numbers:hover{
+    background-color:rgb(65, 64, 64);
+    padding: 10px;
+}
+
+.test{
+   
+    display: inline-block;
+}
+
+.zeroandquma{
+   
+    width: 75% ;
+    height: 101px;
+    position: relative;
+    left: 1.8%;
+    top: 2%;
+    
+}
+
+
+.zero{
+    width: 65.5%;
+    height: 100%;
+    font-size: 35px;
+    background-color:rgb(86, 84, 84);
+    color: beige;
+    transition: 0.4s;
+    box-shadow: 0px 2px 10px -1px rgba(0, 0, 0, 0.19);
+}
+.zero:hover{
+    background-color:rgb(65, 64, 64);
+    padding: 10px;
+}
+
+.quma{
+    width: 31%;
+    height: 100%;
+    margin-left: 10px;
+    font-size: 35px;
+    background-color:rgb(86, 84, 84);
+    color: beige;
+    transition: 0.4s;
+    box-shadow: 0px 2px 10px -1px rgba(0, 0, 0, 0.19);
+}
+.quma:hover{
+    background-color:rgb(65, 64, 64);
+    padding: 10px;
+}
+
+.topsigns{
+    
+    width: 100%;
+    left: 5px;
+    top: -80px;
+    height: 100px;
+    position: absolute;
+    transition: 0.4s;
+    box-shadow: 0px 2px 10px -1px rgba(0, 0, 0, 0.19);
+}
+
+.topsigns button{
+    
+    width: 23.5%;
+    height: 100%;
+    margin-left: 1%;
+    font-size: 20px;
+    font-size: 25px;
+    background-color:rgb(86, 84, 84);
+    color: beige;
+    transition: 0.4s;
+    box-shadow: 0px 2px 10px -1px rgba(0, 0, 0, 0.19);
+}
+
+.topsigns button:hover{
+    background-color:rgb(65, 64, 64);
+    padding: 10px;
+}
+
+.rightsigns{
+    width: 141px;
+    height: 92%;
+    position: absolute;
+    left: 77.5%;
+    top: 6.1%;
+    transition: 0.4s;
+    box-shadow: 0px 2px 10px -1px rgba(0, 0, 0, 0.19);
+}
+
+
+.minues{
+    width: 100%;
+    height: 23.3%;
+    font-size: 35px;
+    background-color:rgb(86, 84, 84);
+    color: beige;
+}
+
+.minues:hover{
+    background-color:rgb(65, 64, 64);
+    padding: 10px;
+}
+
+.plus{
+    width: 100%;
+    height: 23.3%;
+    margin-top: 10px;
+    font-size: 35px;
+    background-color:rgb(86, 84, 84);
+    color: beige;
+    transition: 0.4s;
+    box-shadow: 0px 2px 10px -1px rgba(0, 0, 0, 0.19);
+}
+
+.plus:hover{
+    background-color:rgb(65, 64, 64);
+    padding: 10px;
+
+}
+
+.equal{
+    
+    width: 100%;
+    height: 48.4%;
+    margin-top: 10px;
+    font-size: 35px;
+    background-color:rgb(237, 165, 22); 
+    color: b;
+    transition: 0.4s;
+    
+}
+
+.equal:hover{
+    background-color: rgb(248, 165, 0); 
+}
+
+
+
